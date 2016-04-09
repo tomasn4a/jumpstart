@@ -11,3 +11,5 @@ From the [webpage] (http://tutorials.jumpstartlab.com/projects/blogger.html) des
 * Views with forms, partials, and helpers
 * RESTful design
 * Adding gems for extra features"
+
+View the keroku app [here] (floating-lowlands-72552.herokuapp.com)
